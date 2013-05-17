@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/duanjy/.vim/c-support/wordlists'
+let g:netrw_dirhist_2='/home/duanjy/v525/original_dir_door'
+let g:netrw_dirhist_3='/etc/minicom'
